@@ -9,4 +9,3 @@
   </a>
 </p>
 
-https://camo.githubusercontent.com/
